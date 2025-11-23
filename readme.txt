@@ -1,1 +1,1 @@
-Phiên bản 1: Khởi động dự án
+Phiên bản 2: Thêm tính năng mới
